@@ -1,0 +1,11 @@
+{
+    "name": "Inverted World",
+    "codename": "invertworld",
+    "artist": "Mechari",
+    "musicFile": "song.mp3",
+    "inRanking": 15,
+    "chartIN": "1.pec",
+    "illustration": "cover.jpg",
+    "chartDesigner": "WHC",
+    "sliceAudioStart": "20"
+}
