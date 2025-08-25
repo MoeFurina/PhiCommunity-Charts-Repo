@@ -4,7 +4,7 @@
     "artist": "EmoCosine",
     "musicFile": "base.mp3",
     "inRanking": 15,
-    "chartIN": "base.pec",
+    "chartIN": "base.json",
     "illustration": "base.png",
     "chartDesigner": "酒后作谱&人才黑柒",
     "sliceAudioStart": "20"
